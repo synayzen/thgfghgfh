@@ -1,0 +1,51 @@
+{
+  "//1": "pythonic",
+  "//2": "pythonic",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "pythonic",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "bad-words": "^3.0.3",
+    "can": "^6.6.0",
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.1",
+    "db": "^3.3.1",
+    "discord-bots-api": "^0.0.2",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "google": "^2.1.0",
+    "instagram-user": "^2.0.1",
+    "jimp": "^0.16.1",
+    "level-session-store": "^2.2.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.1",
+    "parse-ms": "^3.0.0",
+    "passport": "^0.4.1",
+    "passport-oauth2": "^1.5.0",
+    "simple-youtube-api": "^5.2.1",
+    "weather-js": "^2.0.0",
+    "wio.db": "^4.0.20",
+    "ytdl-core": "^4.8.0",
+    "os-utils": "^0.0.14",
+    "discord.js": "^12.5.2",
+    "quick.db": "^7.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
